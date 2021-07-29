@@ -1,48 +1,23 @@
 
-  
+ <h1 align="center">Hi 👋, I'm Preet Mehta</h1>
+<h3 align="center">An avid learner from India.</h3>
 
-## Hello, I  am  Preet. 👋
+- 🌱 I’m currently learning **Python, Embedded Coding and Web Development.**
 
+- 💬 Ask me about **Web Development or any tech related stuff.**
 
-- 🌱 I’m  currently  learning  more  about Python, Embedded Coding and  Web Development.
+- 📫 How to reach me **mehtapreet404@gmail.com**
 
-- 👯 I’m  looking  to  collaborate  on [Github](https://github.com/Preet-Mehta).
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/preet-mehta-42b230180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preet-mehta-42b230180" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/impreet9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="impreet9" height="30" width="40" /></a>
+</p>
 
-- 💬 Ask  me  about  Web  Development  or  any  tech  related  stuff.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-- 📫 How  to  reach  me: [Instagram ](https://www.instagram.com/im_preet9/)
-  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=preet-mehta&show_icons=true&locale=en&layout=compact" alt="preet-mehta" /></p>
 
-[![GitHub  Preet-Mehta](https://img.shields.io/github/followers/Preet-Mehta?label=follow&style=social)](https://github.com/Preet-Mehta)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preet-mehta&show_icons=true&locale=en" alt="preet-mehta" /></p>
 
-  
-**Languages  and  Tools:**
-
-<code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
-<code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-<code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-<code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
-<code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-
-<code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
-  
-<a  href="https://github.com/Preet-Mehta">
-
-<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preet-Mehta&theme=dark&hide_langs_below=1"  />
-
-</a>
-
-<br  />
-
-<br  />
-
-<a  href="https://github.com/Preet-Mehta">
-
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Preet-Mehta&show_icons=true&theme=dark&line_height=27"  alt="Preet-Mehta github stats"/>
-
-</a>
